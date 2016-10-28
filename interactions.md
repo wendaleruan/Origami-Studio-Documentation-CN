@@ -4,18 +4,23 @@
 
 ## 交互模块
 
-* **Interaction**`I`This is the bread and butter of interaction in Origami. It can tell you when a user touches down or taps on a particular layer. It also provides the position of the touch within its parent group, and the amount of force applied when using a laptop, phone, or tablet that supports 3D Touch.
+* **Interaction**`I`这是在Origami主要的交互。  它可以告诉你，当一个用户在特定的层按下或点击。它还提供了在它的父组的触摸位置，以及使用笔记本电脑，手机或平板电脑时的按压力度，支持3D触摸。
 
-* **Scroll **This is another common interaction in Origami. It lets you scroll a layer vertically or horizontally, with customizable physics. It can be set to Paging mode, which is useful for prototyping carousels.
+* **Scroll **这是在 Origami 中另外一个常见的交互. 它可以让你随着自定义的物理状态纵向或者横向滚动图层. 它能够被设定有用于原型的旋转的页面模式。
 
-* **Pop Switch** This helps you quickly prototype a two-state, swipeable interaction \(ex: swiping a card left and right\). It also supports two-finger pinching in addition to swipes.
+* **Pop Switch** 这帮你快速地创建原型一个双状态的滑动交互\(例如: 左或右滑动卡片\). 它也支持两手指滑动。
 
-* **Long Press** and **Double Tap** Captures long presses and double taps when connected to an Interaction patch.
+* **Long Press** 和 **Double Tap** 当链接交互模块时表示长按和双击。
 
-* **Drag** Make any layer draggable.
+* **Drag** 使任何图层可拖拽.
 
-* **Keyboard** `K` This shows whenever a key is pressed in the viewer.
+* **Keyboard** `K`  这表示无论何时一个按键在查看器中被按下。 
 
-* **Hover** Allows you to capture hover interaction with a mouse.
+* **Hover** 让你用鼠标悬停的交互
 
+
+
+## 触发触摸事件的注释
+
+图层需要可用并且有大于0的透明度来接收触摸。触摸在图层组中被继承并且和父组共用, 这让你用组内部的可点击的图层建立滚动图层组。
 
