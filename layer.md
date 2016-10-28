@@ -34,7 +34,19 @@
 
 ## 遮罩
 
-图层能被其他图层遮罩住. 按下 ⌘⌥M 将会转换图层为透明遮罩, 裁剪上面的图层。 添加额外的层被遮住，你可以选择图层并按⌘⌥⇧M. 
+图层能被其他图层遮罩住. 按下 ⌘⌥M 将会转换图层为透明遮罩, 裁剪上面的图层。 添加额外的层被遮住，你可以选择图层并按⌘⌥⇧M.
 
-All masks are alpha masks, which can let you do advanced masks like gradient masks or composite masks based on a group of shapes. 所有的遮罩都是透明遮罩，它可以让你做进阶的遮罩，如倾斜的遮罩或复合的遮罩，基于一组的形状。 
+All masks are alpha masks, which can let you do advanced masks like gradient masks or composite masks based on a group of shapes. 所有的遮罩都是透明遮罩，它可以让你做进阶的遮罩，如倾斜的遮罩或复合的遮罩，基于一组的形状。
+
+## 组件
+
+提供预置好的组件集来用标准组件在安卓或IOS上快速制作原型。
+
+通过选择图层然后按下 ⌘⌥G 编组他们到一个组件里以创建自定义的组件 ，双击组件可以进去修改它. 添加它到你的库里并且通过按下 ⌘⌥C 分享给别人。 
+
+## 总结
+
+* 图层就类似于其他app里的图层， 就像 Sketch 和 Photoshop,  都能被编组和遮罩
+* 通过在属性检查器点击图层属性以在模块编辑器里添加对应的模块来编辑动画和图层。
+* 使用预置组件来加快你的工作速度, 创建你自己的组件库并且分享。
 
