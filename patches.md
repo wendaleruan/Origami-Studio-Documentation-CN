@@ -64,7 +64,7 @@ patch可以控制图层属性
 ## 总结
 
 * 模块让你快速地添加交互、动画和动作到你的原型中。
-* A patch can have inputs and outputs that let it communicat with other patches.
-* There is a large library to support building any idea. For most prototypes, you only need to know about 15-20.
-* Learn [keyboard shorcuts](http://origami.design/documentation/workflow/KeyboardShortcuts.html) to speed up your workflow.
+* 模块有输入和输出让它能和其他的模块交流。
+* 有一个大型的库来支持创建任何的想法。对于大多数原型来说, 你只需要知道15-20个模块。
+* 学习键盘快捷键来提高你工作的速度。
 
