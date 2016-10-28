@@ -55,5 +55,16 @@ patch可以控制图层属性
 
 创建一个连线, 从一个输出端口 \(在模块的右边\) 拖拽到一个输入端口 \(在模块的左边\)。断开连线, 拖拽右端离开输入端口。
 
-An output port may connect to multiple cables, but an input port can only accept one cable at a time. Use patches like math \(+, -, x, \/\), logic \(Or, And, Not\), Transition, or Option Picker to combine or select from multiple cables. Quickly connect an output to multiple inputs by selecting the output, and shift-clicking the inputs you want to connect.
+一个输出端口能链接多个连线, 但是一个输入端口同一时间只能接受一个连线。使用模块 如 数学 \(+, -, x, \/\), 逻辑 \(Or, And, Not\), 过渡或者选项选择器以从多个连线链接或者选择. 通过选择输出口快速地连接一个输出口到多个输入口，以及shift+单击你想要链接的输入口。
+
+## 把它们连接一起
+
+在下面的一个例子中，三个不同的模块用连线连接到它们的端口上传递数值到其他的模块.。这些模块一起描述了一个按下的交互动作，切换图层开和关。
+
+## 总结
+
+* 模块让你快速地添加交互、动画和动作到你的原型中。
+* A patch can have inputs and outputs that let it communicat with other patches.
+* There is a large library to support building any idea. For most prototypes, you only need to know about 15-20.
+* Learn [keyboard shorcuts](http://origami.design/documentation/workflow/KeyboardShortcuts.html) to speed up your workflow.
 
