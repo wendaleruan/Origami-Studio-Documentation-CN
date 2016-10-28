@@ -4,7 +4,7 @@ Origami Studio 是 facebook 创造的一款免费的在mac平台工作的设计�
 
 在Origami Studio 有4个主要的面板：
 
-![](http://origami.design/public/images/studioInterface1.png)
+![](/assets/studioInterface1.png)
 
 ### Patch 编辑器
 
