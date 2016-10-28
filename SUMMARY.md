@@ -5,4 +5,5 @@
 * [Layer](layer.md)
 * [Interactions](interactions.md)
 * [States](states.md)
+* [Animations](animations.md)
 
