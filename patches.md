@@ -49,3 +49,11 @@ patch可以控制图层属性
 
 一些模块能改变它拥有或支持类型端口的值，右击任何模块能够看到可用的选项。
 
+## 连线
+
+连线 在模块之间通过它们的端口传递信息（值）。 想象信息就像是水流，然后连线就像管子可以把它到处移动。 数值在一个方向流动: 左边到右边** 从一个输出到一个输入**
+
+创建一个连线, 从一个输出端口 \(在模块的右边\) 拖拽到一个输入端口 \(在模块的左边\)。断开连线, 拖拽右端离开输入端口。
+
+An output port may connect to multiple cables, but an input port can only accept one cable at a time. Use patches like math \(+, -, x, \/\), logic \(Or, And, Not\), Transition, or Option Picker to combine or select from multiple cables. Quickly connect an output to multiple inputs by selecting the output, and shift-clicking the inputs you want to connect.
+
