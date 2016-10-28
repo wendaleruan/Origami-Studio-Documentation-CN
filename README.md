@@ -18,7 +18,7 @@ Origami Studio 是 facebook 创造的一款免费的在mac平台工作的设计�
 
 查看原型和交互动作
 
-### **Patch 库 （ ⌘ + ⏎ ）**
+### **Patch 库 **`⌘⏎`
 
 查看列表中所有的patch和他们的描述。双击Patch编辑器或者用键盘快捷键打开Pathc库，然后选择一个patch按回车来添加patch到原型中。
 
