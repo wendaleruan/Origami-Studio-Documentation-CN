@@ -2,8 +2,6 @@
 
 Origami Studio 支持实时预览原型 在 iOS 和 Android 上, 通过 iOS\/Android Origami Live 应用程序，简单高效地分享文件到任何手机或者平板上。
 
----
-
 ## 通过USB预览镜像
 
 通过 USB 和运行 Origami live应用来连接 iOS 或者 Android 设备。 原型将会立刻显示在手机或者平板上来预览。不需要重启，你在Origami Studio做的任何改变都会立刻反馈在预览里。
