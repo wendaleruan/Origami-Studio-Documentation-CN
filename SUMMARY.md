@@ -6,4 +6,5 @@
 * [Interactions](interactions.md)
 * [States](states.md)
 * [Animations](animations.md)
+* [Previewing & Sharing](previewing--sharing.md)
 
