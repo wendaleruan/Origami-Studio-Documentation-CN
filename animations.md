@@ -41,15 +41,13 @@ With a Progress of 1:
 
 ![](/assets/16.png)
 
-In combination with an animation patch, you can now animate between any two values easily:
+在动画模块组合中,你现在能轻松地在任何两个值之间变化。
 
 ![](/assets/17.png)
 
 ## 总结
 
-* Pop Animation and Classic Animation automatically tween any number.
-* Interaction, Switch, Animation, Transition \(ISAT\) are your bread and butter for animating layers.
-* Sync multiple animations together by using one animation patch connected to multiple Transitions, which map progress of 0-1 to any start\/end values.
-
-
+* Pop 动画和经典动画是自动的在任意数值之间。
+* 交互, 开关, 动画, 过渡 \(ISAT\) 是动画图层不可或缺的。
+* 通过使用一个动画模块连接到多个过渡来同步多个动画一起，从0-1进阶到任何start\/end 的值。
 
