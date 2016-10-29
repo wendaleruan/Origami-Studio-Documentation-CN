@@ -1,6 +1,6 @@
 # 预览 & 分享
 
-Origami Studio 支持实时预览原型 在 iOS 和 Android 上, 通过 iOS\/Android Origami Live 应用程序，简单高效地分享文件到任何手机或者平板上。 
+Origami Studio 支持实时预览原型 在 iOS 和 Android 上, 通过 iOS\/Android Origami Live 应用程序，简单高效地分享文件到任何手机或者平板上。
 
 ---
 
@@ -21,21 +21,19 @@ Origami Studio 支持实时预览原型 在 iOS 和 Android 上, 通过 iOS\/And
 3. 通过一条USB线连接你的 Android 手机或者平板. **注意: 数据线要支持数据传输，有的线只支持给设备充电。**
 4. 打开 Origami Studio 并且确保你最近的一个文档打开着。
 
-## Exporting Prototypes
+## 导出原型
 
-Export a prototype to your phone or tablet via the export button in the toolbar:
+通过工具栏上的导出按钮导出原型到你的手机或者平板上，然后，拿起你的手机或者平板测试你的设计想法。
 
+![](/assets/18.png)
 
+## 分享原型
 
-Then, take your phone or tablet with you to test your ideas on the go.
+Origami Studio 文件也可以通过邮件直接发送到手机或者平板上，Dropbox, AirDrop也可以. 下载对应的 iOS or Android 应用程序可以打开任何原型。
 
-## Sharing Prototypes
+## 解决问题
 
-Origami Studio files can also be sent directly to a phone or tablet via email, Dropbox, AirDrop, etc. Download the corresponding iOS or Android app to open any prototype.
+大多数情况下, 在重启Origami Live, Origami Studio, 或者手机\/平板\/电脑就能解决问题。
 
-## Troubleshooting
-
-In most cases, issues can be resolved by restarting Origami Live, Origami Studio, or the phone\/tablet\/computer.
-
-Make sure that both Origami Studio and Origami Live are on the latest version.
+确保 Origami Studio 和 Origami Live 都是最新的版本。
 
