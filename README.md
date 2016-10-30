@@ -1,3 +1,5 @@
+译者：Wendale  \/   转载请注明出处  https:\/\/wendaleruan.gitbooks.io\/origami-studio-documentation-cn\/content\/
+
 ### 简介
 
 Origami Studio 是 facebook 创造的一款免费的在mac平台工作的设计工具。它让设计师们能够快速地创建和分享交互界面。
