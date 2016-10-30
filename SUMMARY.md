@@ -10,4 +10,5 @@
 * [Keyboard Shortcuts](keyboard-shortcuts.md)
 * [Custom Devices](custom-devices.md)
 * [Coordinates](coordinates.md)
+* [States & Pulses](states--pulses.md)
 
