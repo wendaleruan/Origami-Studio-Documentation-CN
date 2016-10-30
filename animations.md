@@ -4,7 +4,7 @@
 
 ## 动画模块
 
-* **Pop Animation** `A` 自然的有活力的动画通常在 Facebook 应用里发现。 你可以很简单的传递数值到你的开发中，用iOS的 Pop 框架，Android的 Rebound , 和web的 Rebound JS 。
+* **Pop Animation** `A` 自然的有活力的动画通常在 Facebook 应用里发现。 你可以很简单的传递数值到你的开发中，用 iOS 的 Pop 框架，Android 的 Rebound , 和 web 的 Rebound JS 。
 
 * **Classic Animation** `C` 传统的缓动曲线, 如 linear, ease-in, 和 ease-out.
 
@@ -49,5 +49,5 @@ With a Progress of 1:
 
 * Pop 动画和经典动画是自动的在任意数值之间。
 * 交互, 开关, 动画, 过渡 \(ISAT\) 是动画图层不可或缺的。
-* 通过使用一个动画模块连接到多个过渡来同步多个动画一起，从0-1进阶到任何start\/end 的值。
+* 通过使用一个动画模块连接到多个过渡来同步多个动画一起，从0-1进阶到任何 start\/end 的值。
 

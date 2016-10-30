@@ -1,4 +1,4 @@
-# 状态 & 闪烁
+# 状态 & Pulses
 
 状态帮助记忆信息在你的原型里。闪烁是告诉模块运行动作。明白了这些是怎么一起工作的将帮助你更有效的创建你的Origami原型。
 
@@ -12,7 +12,7 @@
 
 开关关闭直到你把它打开。你可以看到在一个单独帧画面中状态马上从关闭编程打开。一帧画面通常是 1\/60 秒。
 
-## 闪烁
+## Pulses
 
 场景在时间上持续存在, 然而闪烁只会在一帧上打✓. 连线发送的其他闪烁的数值都是关闭的.
 
@@ -45,6 +45,4 @@ Sometimes you need a state to turn on for a few moments and then turn off. For e
 The Delay patch can take state that's changing and delay the change by an amount of time you specify. You can also tell it whether to only delay increasing \(off to on\) or decreasing \(on to off\) changes. If you give a Delay patch a pulse as input, you can delay the change from on to off, extending the pulse for any amount of time you'd like.
 
 ![](/assets/26.gif)
-
-
 

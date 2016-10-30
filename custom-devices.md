@@ -70,13 +70,13 @@
 
 类型: String, Required
 
-这是bundle包中最重要的项目。Key将保存到设计师的作品中，所以一旦被选中你不能改变它。Key应该与设备的通常理解的名称有关，但如果有多个屏幕大小或分辨率，它必须是唯一的组合。你不应该在Key中包含设备颜色。它在设备图像里。
+这是 bundle 包中最重要的项目。Key 将保存到设计师的作品中，所以一旦被选中你不能改变它。Key 应该与设备的通常理解的名称有关，但如果有多个屏幕大小或分辨率，它必须是唯一的组合。你不应该在 Key 中包含设备颜色。它在设备图像里。
 
 #### `displayName`
 
 类型: String, Required
 
-display name 在Studio的设备选择菜单里显示. 它能够被改变在它没有被保存到作品中的时候。
+display name 在 Studio 的设备选择菜单里显示. 它能够被改变在它没有被保存到作品中的时候。
 
 #### `screenSize`
 
@@ -166,5 +166,5 @@ The keys in the dictionary describe colors the device is available in, the value
 
 类型: Boolean, Optional
 
-是否手在设备的顶部。有用的设备如iPad，拇指应该在前面。 
+是否手在设备的顶部。有用的设备如 iPad，拇指应该在前面。
 
