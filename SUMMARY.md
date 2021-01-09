@@ -1,6 +1,7 @@
 # Table of contents
 
 * [简介](README.md)
+* [Canvas 画布](canvas-hua-bu.md)
 * [Patches](patches.md)
 * [Layer](layer.md)
 * [Interactions](interactions.md)
