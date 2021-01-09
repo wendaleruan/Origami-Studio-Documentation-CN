@@ -20,7 +20,7 @@ description: >-
 
 图层属性类似于patch上的端口。 这些输入端口的值确定图层的外观。
 
-&lt;video autoplay="" muted="" loop="" playsinline="" width="100%" poster="" height="auto" style="max-width:100%; height:auto; max-height:700px;"&gt;&lt;source src="/public/images/videos/patches\_and\_layers.mp4" type="video/mp4"&gt;&lt;/video&gt;
+`<iframe src="//player.bilibili.com/player.html?aid=10631344&cid=17548810&page=1" scrolling="no" style="border:0;width:100%;height:auto;min-height:790px;" allowfullscreen="true"></iframe>`
 
 
 
