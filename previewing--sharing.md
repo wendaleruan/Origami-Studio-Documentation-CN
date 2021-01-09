@@ -1,4 +1,4 @@
-# 预览 & 分享
+# Previewing & Sharing
 
 Origami Studio 支持实时预览原型 在 iOS 和 Android 上, 通过 iOS\/Android Origami Live 应用程序，简单高效地分享文件到任何手机或者平板上。
 
@@ -23,11 +23,11 @@ Origami Studio 支持实时预览原型 在 iOS 和 Android 上, 通过 iOS\/And
 
 通过工具栏上的导出按钮导出原型到你的手机或者平板上，然后，拿起你的手机或者平板测试你的设计想法。
 
-![](/assets/18.png)
+![](.gitbook/assets/18.png)
 
 ## 分享原型
 
-Origami Studio 文件也可以通过邮件直接发送到手机或者平板上，Dropbox ,  AirDrop 也可以. 下载对应的 iOS 或者 Android 应用程序可以打开任何原型。
+Origami Studio 文件也可以通过邮件直接发送到手机或者平板上，Dropbox , AirDrop 也可以. 下载对应的 iOS 或者 Android 应用程序可以打开任何原型。
 
 ## 解决问题
 
