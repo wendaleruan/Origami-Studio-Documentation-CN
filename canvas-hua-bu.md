@@ -22,7 +22,9 @@ description: >-
 
 {% embed url="https://origami.design/public/images/videos/patches\_and\_layers.mp4" %}
 
+## Layer Property Patches 图层属性模块
 
+要通过patch调整图层属性，请在检查器中单击属性，然后将创建一个蓝色的图层属性修补程序，其中包含图层的名称和一个输入值的输入端口。
 
 
 
